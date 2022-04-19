@@ -1,0 +1,6 @@
+Names of Each as Follow
+SeatPlane_ = Boarding By Seat
+GroupPlane_ = Boarding by Section
+RandomPlane_ = Random Boarding
+Type_ = Type of plane via figure
+If there is no Type_ at the end of the name, that belongs to Plane 1
